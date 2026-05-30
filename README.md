@@ -47,7 +47,8 @@ After installing Cursor:
 3. Verify the account through email authentication
 4. Complete the initial setup process
 
-> Screenshot: Cursor login screen
+![Cursor login screen](asset/cursor-login.png)
+
 
 ### 3. Install AI Extensions
 
@@ -69,7 +70,9 @@ Resources:
 - Claude: https://platform.claude.com/
 - Codex: https://chatgpt.com/codex/
 
-> Screenshot: Installed extensions
+![claude](asset/Claude.png)
+
+![codex](asset/Codex.png)
 
 ---
 
@@ -83,7 +86,7 @@ Create a new public GitHub repository and clone it locally:
 git clone <repository-url>
 ```
 
-> Screenshot: Repository creation page
+![Github](asset/Repository.png)
 
 ### 2. Open the Repository in Cursor
 
@@ -153,13 +156,13 @@ npm pkg set type=module
 npm install @anthropic-ai/sdk
 ```
 
-> Screenshot: Successful SDK installation
+![Github](asset/sdk-installation.png)
 
 ### 3. Configure Codex
 
 Access Codex through the Cursor sidebar and sign in using an OpenAI account.
 
-> Screenshot: Codex panel
+![Github](asset/codex-panel.png)
 
 ---
 
